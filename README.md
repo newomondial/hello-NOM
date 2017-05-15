@@ -1,3 +1,3 @@
 # hello-NOM
 just new ordre
-new  gen  de devell
+new  gen  de developpeur
